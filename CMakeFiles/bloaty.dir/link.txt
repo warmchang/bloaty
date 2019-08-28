@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -W -Wall -Wno-sign-compare -fdiagnostics-color=always -O2 -g1   -Wl,--build-id -rdynamic CMakeFiles/bloaty.dir/src/main.cc.o  -o bloaty liblibbloaty.a third_party/protobuf/cmake/libprotoc.a third_party/re2/libre2.a third_party/capstone/libcapstone.a -lpthread third_party/protobuf/cmake/libprotobuf.a -lpthread 

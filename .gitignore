@@ -1,6 +1,5 @@
 *.a
 *.o
 .*.sw?
-/bloaty
 !tests/testdata/**
 *.dSYM
